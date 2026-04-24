@@ -1,0 +1,8 @@
+*.bcf
+*.vcf
+*.tsv
+*.csv
+*.pkl
+status/
+__pycache__/
+.ipynb_checkpoints/
